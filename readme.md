@@ -1,3 +1,3 @@
-# Repositorio con Custom Hooks útiles
+# Repositorio de ayuda para  ReactJs
 
-Este repositorio contiene algunos custom hooks útiles. 
+Este repositorio contiene códigos útiles para usar con ReactJs
